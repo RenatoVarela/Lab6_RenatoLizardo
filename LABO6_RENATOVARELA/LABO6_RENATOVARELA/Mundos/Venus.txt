@@ -1,0 +1,13 @@
+Nombre: Venus;
+------------------------------------------------------------------------------------
+Nombre Criatura: Huetea,
+Cantidad de vida: 1322,
+Cantidad Vital: 1232,
+Nombre de la Region: Heyea,
+Cantidad Maxima de Años: 12312;
+------------------------------------------------------------------------------------
+Nombre Criatura: Medea,
+Cantidad de vida: 1231,
+Cantidad Vital: 12321,
+Nombre de la Region: FREA,
+Cantidad Maxima de Años: 2134;

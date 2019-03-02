@@ -1,0 +1,13 @@
+Nombre: Saturno;
+------------------------------------------------------------------------------------
+Nombre Criatura: Genea,
+Cantidad de vida: 13423,
+Cantidad Vital: 123123,
+Nombre de la Region: ViaLact,
+Cantidad Maxima de Años: 4513;
+------------------------------------------------------------------------------------
+Nombre Criatura: Ganiel,
+Cantidad de vida: 12331,
+Cantidad Vital: 213,
+Nombre de la Region: Vasilik,
+Cantidad Maxima de Años: 21321;
